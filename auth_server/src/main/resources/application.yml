@@ -1,0 +1,6 @@
+security:
+  jwt:
+    key-store: /home/administrator/TrialProject/certificate:mykeystore.jks
+    key-store-password: volante@123
+    key-pair-alias: mytestkey
+    key-pair-password: changeme
